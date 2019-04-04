@@ -4,15 +4,16 @@ In this project, the goal is to generate new ,"fake" [Seinfeld](https://en.wikip
 
 ## Steps for generating TV scripts
 
-- Get the Data
+- The Dataset
 - Explore the Data
 - Data Preprocessing
 - Build the Neural Network
 - Neural Network Training
 - Generate TV Script
 
-## Get the Data
-[Seinfeld Dataset](https://www.kaggle.com/thec03u5/seinfeld-chronicles#scripts.csv)
+## The Dataset
+
+[Seinfeld Dataset](https://www.kaggle.com/thec03u5/seinfeld-chronicles#scripts.csv), a dataset for textual analysis on arguably the best written comedy television show ever.
 
 ## Explore the Data
 
