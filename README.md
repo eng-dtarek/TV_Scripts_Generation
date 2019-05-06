@@ -8,8 +8,6 @@ This project is a part of the [Deep Learning Nanodegree](https://www.udacity.com
 
 Building a Neural Network to generate a new, "fake" TV script using Seinfeld dataset of scripts from 9 seasons.
 
-The goal of this project is to generate new ,"fake" [Seinfeld](https://en.wikipedia.org/wiki/Seinfeld) TV scripts using RNNs based on patterns it recognizes in the training data.
-
 ## Methods Used
 
 - Data Exploration
