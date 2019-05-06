@@ -27,7 +27,7 @@ Building a Neural Network to generate a new, "fake" TV script using Seinfeld dat
 The purpose of this project is to generate new ,"fake" [Seinfeld](https://en.wikipedia.org/wiki/Seinfeld) TV scripts using RNNs based on patterns it recognizes in [the training data](https://www.kaggle.com/thec03u5/seinfeld-chronicles#scripts.csv). I began with exploring the dataset to get an overview with some samples. Then, applied data preprocessing by creating lookup table tozenizing punctuation, and finally implemented RNN using LSTM.
 After training for 35 epochs, I could generate a new, "fake" Seinfeld TV script.
 
-**Samples of generated fake script**
+**Samples of the generated fake script**
 
 george: what about the drake?
 
