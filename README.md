@@ -20,6 +20,9 @@ Building a Neural Network to generate a new, "fake" TV script using Seinfeld dat
 - Anaconda or Miniconda
 - Numpy
 - PyTorch
+- Mock
+- OS
+- Pickle
 - Jupyter Notebook
 
 ## Project Description
