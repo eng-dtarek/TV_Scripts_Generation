@@ -39,7 +39,7 @@ george:(to jerry) i can't believe this!
 
 kramer: oh! yeah!
 
-As shown the TV script doesn't make perfect sense which is fine for the project. It should look like alternating lines of dialogue (for more details see this [documentation]](https://github.com/eng-dtarek/TV_Scripts_Generator/blob/master/dlnd_tv_script_generation.html))  
+As shown the TV script doesn't make perfect sense which is fine for the project. It should look like alternating lines of dialogue (for more details see this [documentation](https://github.com/eng-dtarek/TV_Scripts_Generator/blob/master/dlnd_tv_script_generation.html))  
 
 ## Getting Started
 
